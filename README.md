@@ -123,7 +123,7 @@ Expected Output (if the file exists):
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
-Create a File – Creates a file named newfile.txt with the content This is a new file
+Create a File – Creates a file named newfile.txt with the content This is a new file 
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
