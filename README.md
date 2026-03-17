@@ -118,6 +118,8 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+
+
 <img width="412" height="62" alt="image" src="https://github.com/user-attachments/assets/9e6eed8b-ad1f-4ef5-a963-04223e2a1b30" />
 
 
